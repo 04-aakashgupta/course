@@ -13,7 +13,7 @@ while(num!==0)
 
 
     sum=sum*10+digit;
-    console.log(sum)
+
 }
 
 

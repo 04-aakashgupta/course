@@ -22,11 +22,6 @@ while(i<=20)
 
     }
 
-
-    if(i===20)
-    {
-        break;
-    }
     console.log(",");
 
 }
